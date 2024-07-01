@@ -29,7 +29,7 @@ const router = createBrowserRouter(
     },
   ],
   {
-    basename: "",
+    basename: "/forohub-client/",
   }
 );
 
